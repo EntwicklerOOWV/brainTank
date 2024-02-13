@@ -1,3 +1,6 @@
 [submodule "SmartWaterTankApp"]
 	path = SmartWaterTankApp
 	url = https://github.com/EntwicklerOOWV/SmartWaterTankApp.git
+[submodule "SmartWaterTankController"]
+	path = SmartWaterTankController
+	url = https://github.com/EntwicklerOOWV/SmartWaterTankController
