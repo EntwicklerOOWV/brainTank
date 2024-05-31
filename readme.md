@@ -16,7 +16,7 @@ Im Bereich b:rainTankApp findest Du alles, was Du für die Installation der App 
 -	Statistiken zum Füllstand und zur Regenmenge abrufen
   
 ## b:rainTankController
-Im Bereich b:rainTankController findest Du alles, was Du für den Aufbau und die Installation des Controller zur Steuerung des intelligenten Wassertanks wissen musst. Dazu gehört eine Materialliste mit der benötigten Hardware, eine Installationsanleitung // Schritt für Schritt Anleitung für die Installation deines Raspberry Pi sowie eine Anleitung für den Aufbau der Hardware. Bald wird es auch ein Aufbau-Video geben. Sobald dieses verfügbar ist, verlinken wir es euch an dieser Stelle. Abonniert gern auch unseren [YouTube Kanal](https://www.youtube.com/channel/UCxlxx75dBCgBT9nY7oJd2Jg/videos), um auf dem Laufenden zu bleiben! 
+Im Bereich b:rainTankController findest Du alles, was Du für den Aufbau und die Installation des Controller zur Steuerung des intelligenten Wassertanks wissen musst. Dazu gehört eine Materialliste mit der benötigten Hardware, eine Schritt für Schritt Anleitung für die Installation deines Raspberry Pi sowie eine Anleitung für den Aufbau der Hardware. Bald wird es auch ein Aufbau-Video geben. Sobald dieses verfügbar ist, verlinken wir es euch an dieser Stelle. Abonniert gern auch unseren [YouTube Kanal](https://www.youtube.com/channel/UCxlxx75dBCgBT9nY7oJd2Jg/videos), um auf dem Laufenden zu bleiben! 
 
 ## Du hast Fragen oder Kommentare?
 Werde ein Teil der Bewegung für ein nachhaltiges Wassermanagement. Teile gerne Deine Erfahrungen mit dem Tank hier auf GitHub mit uns – Deine Rückmeldungen sind uns wichtig.
