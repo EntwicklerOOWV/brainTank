@@ -26,3 +26,8 @@ Die Folgen des Klimawandels sind für uns alle spürbar. Lange Trockenheit, stei
 Durch Deinen Einsatz entlastest Du insbesondere bei Starkregen das Kanalsystem und trägst zum Schutz vor Überflutungsschäden bei. Je mehr Tanks aufgestellt werden, desto größer ist das Gesamtspeichervolumen. Außerdem steht Dir mit Deinem b:rainTank Regenwasser statt Trinkwasser für die Gartenbewässerung zur Verfügung. Das freut die Pflanzen und schont die Wasserressourcen.
 
 Das Projekt wird durch die Europäische Union mit Mitteln aus dem Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums – ELER gefördert. Der b:rainTank wurde im Rahmen eines LEADER-Kooperationsprojektes der Regionen „Vechta“ und „Wesermarsch in Bewegung“ entwickelt.
+
+<img width="165" height="150" alt="EU-Logo" src="https://github.com/user-attachments/assets/f5ceabc5-6308-4dac-a486-ddbcd9413de5" />
+<img width="160" height="145" alt="LEADER_Logo" src="https://github.com/user-attachments/assets/9852652a-095b-46ef-b8c2-2fe2a2ea7578" />
+<img width="230" height="50" alt="OOWV-Logo transparent" src="https://github.com/user-attachments/assets/33e44ffe-a21d-452b-959b-5bbe53a36562" />
+
