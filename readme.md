@@ -28,8 +28,8 @@ Durch Deinen Einsatz entlastest Du insbesondere bei Starkregen das Kanalsystem u
 Das Projekt wird durch die Europäische Union mit Mitteln aus dem Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums – ELER gefördert. Der b:rainTank wurde im Rahmen eines LEADER-Kooperationsprojektes der Regionen „Vechta“ und „Wesermarsch in Bewegung“ entwickelt.
 
 <img width="165" height="150" alt="EU-Logo" src="https://github.com/user-attachments/assets/f5ceabc5-6308-4dac-a486-ddbcd9413de5" />
-<img width="160" height="145" alt="LEADER_Logo" src="https://github.com/user-attachments/assets/9852652a-095b-46ef-b8c2-2fe2a2ea7578" />
-<img width="230" height="50" alt="OOWV-Logo transparent" src="https://github.com/user-attachments/assets/33e44ffe-a21d-452b-959b-5bbe53a36562" />
-<img width="300" height="100" alt="OOWV_240624_brainTank_Wortmarke" src="https://github.com/user-attachments/assets/c250c00f-191c-4cfb-a216-d50ef35bb105" />
+<img width="135" height="120" alt="LEADER_Logo" src="https://github.com/user-attachments/assets/9852652a-095b-46ef-b8c2-2fe2a2ea7578" />
+<img width="160" height="40" alt="OOWV-Logo transparent" src="https://github.com/user-attachments/assets/33e44ffe-a21d-452b-959b-5bbe53a36562" />
+<img width="200" height="70" alt="OOWV_240624_brainTank_Wortmarke" src="https://github.com/user-attachments/assets/c250c00f-191c-4cfb-a216-d50ef35bb105" />
 
 
